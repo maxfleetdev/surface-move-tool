@@ -1,0 +1,11 @@
+{
+    "name": "Maxfleet.SurfaceMoveTool.Tests",
+    "references": [
+        "Maxfleet.SurfaceMoveTool"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

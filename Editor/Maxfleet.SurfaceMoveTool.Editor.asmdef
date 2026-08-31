@@ -1,0 +1,10 @@
+{
+    "name": "Maxfleet.SurfaceMoveTool.Editor",
+    "references": [
+      "Maxfleet.SurfaceMoveTool"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
